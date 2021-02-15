@@ -1,0 +1,39 @@
+hr {
+	background-color: black;
+}
+
+input {
+	float: left;
+    margin-left: -20px;
+    margin-right: 7px;
+}
+
+label {
+	display: block;
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.info {
+	font-size: 12px;
+	margin-bottom: 1px;
+	font-size: 10px;
+}
+
+.table {
+	border-style: solid;
+	border-color: black;
+	padding: 20px;
+}
+
+.table_title {
+	background-color: gray;
+	padding: 5px;
+	border-style: solid;
+	border-bottom: 0;
+
+}
+
+p {
+	font-size: 13px;
+}
